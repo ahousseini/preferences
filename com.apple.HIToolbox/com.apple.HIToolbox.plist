@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppleCurrentKeyboardLayoutInputSourceID</key>
+	<string>com.apple.keylayout.British</string>
+	<key>AppleDateResID</key>
+	<dict>
+		<key>smRoman</key>
+		<integer>19</integer>
+	</dict>
+	<key>AppleDefaultAsciiInputSource</key>
+	<dict>
+		<key>InputSourceKind</key>
+		<string>Keyboard Layout</string>
+		<key>KeyboardLayout ID</key>
+		<integer>19</integer>
+		<key>KeyboardLayout Name</key>
+		<string>Swiss German</string>
+	</dict>
+	<key>AppleEnabledInputSources</key>
+	<array>
+		<dict>
+			<key>InputSourceKind</key>
+			<string>Keyboard Layout</string>
+			<key>KeyboardLayout ID</key>
+			<integer>19</integer>
+			<key>KeyboardLayout Name</key>
+			<string>Swiss German</string>
+		</dict>
+	</array>
+	<key>AppleInputSourceHistory</key>
+	<array>
+		<dict>
+			<key>InputSourceKind</key>
+			<string>Keyboard Layout</string>
+			<key>KeyboardLayout ID</key>
+			<integer>19</integer>
+			<key>KeyboardLayout Name</key>
+			<string>Swiss German</string>
+		</dict>
+	</array>
+	<key>AppleNumberResID</key>
+	<dict>
+		<key>smRoman</key>
+		<integer>19</integer>
+	</dict>
+	<key>AppleSelectedInputSources</key>
+	<array>
+		<dict>
+			<key>InputSourceKind</key>
+			<string>Keyboard Layout</string>
+			<key>KeyboardLayout ID</key>
+			<integer>19</integer>
+			<key>KeyboardLayout Name</key>
+			<string>Swiss German</string>
+		</dict>
+	</array>
+	<key>AppleTimeResID</key>
+	<dict>
+		<key>smRoman</key>
+		<integer>19</integer>
+	</dict>
+</dict>
+</plist>
