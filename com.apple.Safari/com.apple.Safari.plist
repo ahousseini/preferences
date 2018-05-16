@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ManagedPlugInPolicies</key>
+	<dict>
+		<key>com.macromedia.Flash Player.plugin</key>
+		<dict>
+			<key>PlugInDisallowPromptBeforeUseDialog</key>
+			<true/>
+			<key>PlugInFirstVisitPolicy</key>
+			<string>PlugInPolicyAllowWithSecurityRestrictions</string>
+		</dict>
+		<key>com.oracle.java.JavaAppletPlugin</key>
+		<dict>
+			<key>PlugInFirstVisitPolicy</key>
+			<string>PlugInPolicyAllowWithSecurityRestrictions</string>
+		</dict>
+		<key>com.microsoft.SilverlightPlugin</key>
+		<dict>
+			<key>PlugInDisallowPromptBeforeUseDialog</key>
+			<true/>
+			<key>PlugInFirstVisitPolicy</key>
+			<string>PlugInPolicyAllowWithSecurityRestrictions</string>
+		</dict>
+		<key>com.adobe.director.shockwave.pluginshim</key>
+		<dict>
+			<key>PlugInFirstVisitPolicy</key>
+			<string>PlugInPolicyAllowWithSecurityRestrictions</string>
+		</dict>
+	</dict>
+	<key>PlugInInfo</key>
+	<dict>
+		<key>com.macromedia.Flash Player.plugin</key>
+		<dict>
+			<key>plugInCurrentState</key>
+			<true/>
+		</dict>
+		<key>com.oracle.java.JavaAppletPlugin</key>
+		<dict>
+			<key>plugInCurrentState</key>
+			<true/>
+		</dict>
+		<key>com.microsoft.SilverlightPlugin</key>
+		<dict>
+			<key>plugInCurrentState</key>
+			<true/>
+		</dict>
+		<key>com.adobe.director.shockwave.pluginshim</key>
+		<dict>
+			<key>plugInCurrentState</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
