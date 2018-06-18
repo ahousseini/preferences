@@ -16,14 +16,7 @@
 			<key>PlugInFirstVisitPolicy</key>
 			<string>PlugInPolicyAllowWithSecurityRestrictions</string>
 		</dict>
-		<key>com.microsoft.SilverlightPlugin</key>
-		<dict>
-			<key>PlugInDisallowPromptBeforeUseDialog</key>
-			<true/>
-			<key>PlugInFirstVisitPolicy</key>
-			<string>PlugInPolicyAllowWithSecurityRestrictions</string>
-		</dict>
-		<key>com.adobe.director.shockwave.pluginshim</key>
+		<key>com.apple.QuickTime Plugin.plugin</key>
 		<dict>
 			<key>PlugInFirstVisitPolicy</key>
 			<string>PlugInPolicyAllowWithSecurityRestrictions</string>
@@ -41,12 +34,7 @@
 			<key>plugInCurrentState</key>
 			<true/>
 		</dict>
-		<key>com.microsoft.SilverlightPlugin</key>
-		<dict>
-			<key>plugInCurrentState</key>
-			<true/>
-		</dict>
-		<key>com.adobe.director.shockwave.pluginshim</key>
+		<key>com.apple.QuickTime Plugin.plugin</key>
 		<dict>
 			<key>plugInCurrentState</key>
 			<true/>
