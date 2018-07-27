@@ -28,5 +28,7 @@
 	<true/>
 	<key>NSAutomaticTextCompletionEnabled</key>
 	<true/>
+	<key>AppleShowScrollBars</key>
+	<string>Always</string>
 </dict>
 </plist>
