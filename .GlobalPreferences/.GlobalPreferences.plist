@@ -14,5 +14,19 @@
 	<string>de_CH</string>
 	<key>Country</key>
 	<string>CH</string>
+	<key>NSAutomaticCapitalizationEnabled</key>
+	<false/>
+	<key>NSAutomaticDashSubstitutionEnabled</key>
+	<true/>
+	<key>NSAutomaticPeriodSubstitutionEnabled</key>
+	<false/>
+	<key>NSAutomaticQuoteSubstitutionEnabled</key>
+	<true/>
+	<key>NSAutomaticSpellingCorrectionEnabled</key>
+	<false/>
+	<key>NSAutomaticTextCompletionCollapsed</key>
+	<true/>
+	<key>NSAutomaticTextCompletionEnabled</key>
+	<true/>
 </dict>
 </plist>
