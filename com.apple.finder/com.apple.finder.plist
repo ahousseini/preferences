@@ -9,7 +9,7 @@
 	<key>ShowExternalHardDrivesOnDesktop</key>
 	<true/>
 	<key>ShowHardDrivesOnDesktop</key>
-	<true/>
+	<false/>
 	<key>ShowMountedServersOnDesktop</key>
 	<true/>
 	<key>ShowPathbar</key>
