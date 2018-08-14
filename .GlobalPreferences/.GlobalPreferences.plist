@@ -30,5 +30,7 @@
 	<true/>
 	<key>AppleShowScrollBars</key>
 	<string>Always</string>
+	<key>CSUIDisable32BitWarning</key>
+	<true/>
 </dict>
 </plist>
