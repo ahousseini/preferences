@@ -8,5 +8,7 @@
 	<integer>0</integer>
 	<key>tokenRemovalAction</key>
 	<integer>0</integer>
+	<key>loginWindowIdleTime</key>
+	<integer>0</integer>
 </dict>
 </plist>

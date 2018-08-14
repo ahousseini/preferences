@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict/>
-	<key>SkipCloudSetup</key>
-	<true/>
-	<key>SkipSiriSetup</key>
-	<true/>
-	<key>SkipPrivacySetup</key>
-	<true/>
-	<key>SkipiCloudStorageSetup</key>
-	<true/>
-	<key>SkipAppearance</key>
-	<true/>
+<dict>
 	<key>DidSeeCloudSetup</key>
-	<true/>
-	<key>GestureMovieSeen</key>
 	<true/>
 	<key>DidSeePrivacy</key>
 	<true/>
 	<key>DidSeeSiriSetup</key>
 	<true/>
+	<key>GestureMovieSeen</key>
+	<true/>
+	<key>SkipAppearance</key>
+	<true/>
+	<key>SkipCloudSetup</key>
+	<true/>
+	<key>SkipPrivacySetup</key>
+	<true/>
+	<key>SkipSiriSetup</key>
+	<true/>
 	<key>SkipTouchIDSetup</key>
 	<true/>
+	<key>SkipiCloudStorageSetup</key>
+	<true/>
+</dict>
 </plist>
