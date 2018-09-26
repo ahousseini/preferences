@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSToolbar Configuration Cyberduck Toolbar</key>
+	<dict>
+		<key>TB Display Mode</key>
+		<integer>1</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>1</integer>
+		<key>TB Is Shown</key>
+		<integer>1</integer>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+	</dict>
+	<key>NSToolbar Configuration Transfer Toolbar</key>
+	<dict>
+		<key>TB Display Mode</key>
+		<integer>1</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>1</integer>
+		<key>TB Is Shown</key>
+		<integer>1</integer>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+	</dict>
+	<key>SUEnableAutomaticChecks</key>
+	<false/>
+	<key>SUFeedURL</key>
+	<string>https://version.cyberduck.io//changelog.rss</string>
+	<key>SUHasLaunchedBefore</key>
+	<true/>
+	<key>SULastCheckTime</key>
+	<date>2018-09-26T13:49:07Z</date>
+	<key>SUSendProfileInfo</key>
+	<false/>
+	<key>bookmark.import.com.crossftp</key>
+	<string>true</string>
+	<key>bookmark.import.com.expandrive.ExpanDrive3</key>
+	<string>true</string>
+	<key>bookmark.import.com.extendmac.Flow</key>
+	<string>true</string>
+	<key>bookmark.import.com.fetchsoftworks.Fetch</key>
+	<string>true</string>
+	<key>bookmark.import.com.nolobe.interarchy</key>
+	<string>true</string>
+	<key>bookmark.import.com.panic.Transmit</key>
+	<string>true</string>
+	<key>bookmark.import.de.filezilla</key>
+	<string>true</string>
+	<key>bookmark.import.org.mozdev.fireftp</key>
+	<string>true</string>
+	<key>browser.alternatingRows</key>
+	<string>true</string>
+	<key>browser.doubleclick.edit</key>
+	<string>true</string>
+	<key>browser.open.untitled</key>
+	<string>false</string>
+	<key>browser.serialize</key>
+	<string>false</string>
+	<key>browser.sort.ascending</key>
+	<string>false</string>
+	<key>browser.view</key>
+	<string>1</string>
+	<key>browser.view.autoexpand.delay</key>
+	<string>1.0</string>
+	<key>browser.view.autoexpand.useDelay</key>
+	<string>true</string>
+	<key>connection.login.keychain</key>
+	<string>false</string>
+	<key>connection.retry</key>
+	<string>1</string>
+	<key>connection.retry.delay</key>
+	<string>0</string>
+	<key>connection.timeout.seconds</key>
+	<string>30</string>
+	<key>cryptomator.vault.autodetect</key>
+	<string>false</string>
+	<key>defaulthandler.reminder</key>
+	<string>false</string>
+	<key>preferences.toolbar.selected</key>
+	<string>0</string>
+	<key>queue.removeItemWhenComplete</key>
+	<string>false</string>
+	<key>queue.window.open.default</key>
+	<string>false</string>
+	<key>queue.window.open.transfer.start</key>
+	<string>false</string>
+	<key>queue.window.open.transfer.stop</key>
+	<string>true</string>
+	<key>transfer.toggle.details</key>
+	<string>1</string>
+	<key>update.check</key>
+	<string>false</string>
+	<key>uses</key>
+	<string>24</string>
+</dict>
+</plist>
