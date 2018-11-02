@@ -49,7 +49,7 @@
 	<key>IncognitoModeAvailability</key>
 	<integer>1</integer>
 	<key>PasswordManagerEnabled</key>
-	<false/>
+	<true/>
 	<key>AllowDeletingBrowserHistory</key>
 	<false/>
 	<key>RestoreOnStartup</key>
@@ -63,7 +63,7 @@
 	<key>ShowHomeButton</key>
 	<true/>
 	<key>SyncDisabled</key>
-	<true/>
+	<false/>
 	<key>HideWebStoreIcon</key>
 	<true/>
 </dict>
