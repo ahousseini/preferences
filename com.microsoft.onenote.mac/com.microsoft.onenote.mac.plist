@@ -4,5 +4,9 @@
 <dict>
 	<key>SendAllTelemetryEnabled</key>
 	<false/>
+	<key>SendASmileEnabled</key>
+	<true/>
+	<key>kSubUIAppCompletedFirstRunSetup1507</key>
+	<true/>
 </dict>
 </plist>
