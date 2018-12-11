@@ -9,6 +9,6 @@
 	<key>SendAllTelemetryEnabled</key>
 	<false/>
 	<key>SendASmileEnabled</key>
-	<true/>
+	<false/>
 </dict>
 </plist>
