@@ -5,7 +5,7 @@
 	<key>SendAllTelemetryEnabled</key>
 	<false/>
 	<key>SendASmileEnabled</key>
-	<true/>
+	<false/>
 	<key>kSubUIAppCompletedFirstRunSetup1507</key>
 	<false/>
 </dict>
