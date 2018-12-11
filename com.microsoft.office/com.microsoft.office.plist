@@ -4,5 +4,15 @@
 <dict>
 	<key>DefaultsToLocalOpenSave</key>
 	<true/>
+	<key>OfficeAutoSignIn</key>
+	<true/>
+	<key>ShowDocStageOnLaunch</key>
+	<false/>
+	<key>ShowWhatsNewOnLaunch</key>
+	<true/>
+	<key>TermsAccepted1809</key>
+	<true/>
+	<key>kCUIThemePreferencesThemeKeyPath</key>
+	<integer>0</integer>
 </dict>
 </plist>
