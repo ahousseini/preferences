@@ -8,5 +8,7 @@
 	<true/>
 	<key>SendAllTelemetryEnabled</key>
 	<false/>
+	<key>SendASmileEnabled</key>
+	<true/>
 </dict>
 </plist>
