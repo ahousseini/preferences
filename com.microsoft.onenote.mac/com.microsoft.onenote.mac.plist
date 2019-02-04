@@ -2,11 +2,21 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>SendASmileEnabled</key>
+	<true/>
 	<key>SendAllTelemetryEnabled</key>
 	<false/>
-	<key>SendASmileEnabled</key>
+	<key>SendCrashReportsEvenWithTelemetryDisabled</key>
 	<false/>
+	<key>SignInOptions</key>
+	<integer>0</integer>
+	<key>kFREEnterpriseTelemetryInfoKey</key>
+	<true/>
+	<key>kFREIntelligenceServicesConsentV2Key</key>
+	<true/>
+	<key>kFRETelemetryConsentKey</key>
+	<true/>
 	<key>kSubUIAppCompletedFirstRunSetup1507</key>
-	<false/>
+	<true/>
 </dict>
 </plist>
