@@ -8,8 +8,6 @@
 	<false/>
 	<key>SendCrashReportsEvenWithTelemetryDisabled</key>
 	<false/>
-	<key>SignInOptions</key>
-	<integer>0</integer>
 	<key>kFREEnterpriseTelemetryInfoKey</key>
 	<true/>
 	<key>kFREIntelligenceServicesConsentV2Key</key>
