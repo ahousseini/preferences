@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>askForPassword</key>
-	<integer>1</integer>
+	<true/>
 	<key>askForPasswordDelay</key>
-	<integer>0</integer>
+	<integer>300</integer>
 	<key>tokenRemovalAction</key>
 	<integer>0</integer>
 	<key>loginWindowIdleTime</key>
