@@ -8,6 +8,10 @@
 	<true/>
 	<key>DidSeeSiriSetup</key>
 	<true/>
+	<key>DidSeeTouchIDSetup</key>
+	<true/>
+	<key>DidSeeTrueTonePrivacy</key>
+	<true/>
 	<key>GestureMovieSeen</key>
 	<true/>
 	<key>SkipAppearance</key>
