@@ -14,5 +14,7 @@
 	<false/>
 	<key>SendASmileEnabled</key>
 	<false/>
+	<key>TrustO365AutodiscoverRedirect</key>
+	<true/>
 </dict>
 </plist>
