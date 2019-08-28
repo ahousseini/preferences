@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>ConnectedOfficeExperiencesPreference</key>
-	<false/>
+	<true/>
 	<key>DefaultsToLocalOpenSave</key>
 	<true/>
 	<key>DiagnosticDataTypePreference</key>
@@ -13,11 +13,11 @@
 	<key>OfficeAutoSignIn</key>
 	<true/>
 	<key>OfficeExperiencesAnalyzingContentPreference</key>
-	<false/>
+	<true/>
 	<key>OfficeExperiencesDownloadingContentPreference</key>
-	<false/>
+	<true/>
 	<key>OptionalConnectedExperiencesPreference</key>
-	<false/>
+	<true/>
 	<key>SendAllTelemetryEnabled</key>
 	<false/>
 	<key>ShowDocStageOnLaunch</key>
