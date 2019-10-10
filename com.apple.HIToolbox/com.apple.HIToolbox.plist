@@ -3,21 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppleCurrentKeyboardLayoutInputSourceID</key>
-	<string>com.apple.keylayout.British</string>
-	<key>AppleDateResID</key>
-	<dict>
-		<key>smRoman</key>
-		<integer>19</integer>
-	</dict>
-	<key>AppleDefaultAsciiInputSource</key>
-	<dict>
-		<key>InputSourceKind</key>
-		<string>Keyboard Layout</string>
-		<key>KeyboardLayout ID</key>
-		<integer>19</integer>
-		<key>KeyboardLayout Name</key>
-		<string>Swiss German</string>
-	</dict>
+	<string>com.apple.keylayout.SwissGerman</string>
 	<key>AppleEnabledInputSources</key>
 	<array>
 		<dict>
@@ -28,23 +14,19 @@
 			<key>KeyboardLayout Name</key>
 			<string>Swiss German</string>
 		</dict>
-	</array>
-	<key>AppleInputSourceHistory</key>
-	<array>
 		<dict>
+			<key>Bundle ID</key>
+			<string>com.apple.PressAndHold</string>
 			<key>InputSourceKind</key>
-			<string>Keyboard Layout</string>
-			<key>KeyboardLayout ID</key>
-			<integer>19</integer>
-			<key>KeyboardLayout Name</key>
-			<string>Swiss German</string>
+			<string>Non Keyboard Input Method</string>
+		</dict>
+		<dict>
+			<key>Bundle ID</key>
+			<string>com.apple.inputmethod.EmojiFunctionRowItem</string>
+			<key>InputSourceKind</key>
+			<string>Non Keyboard Input Method</string>
 		</dict>
 	</array>
-	<key>AppleNumberResID</key>
-	<dict>
-		<key>smRoman</key>
-		<integer>19</integer>
-	</dict>
 	<key>AppleSelectedInputSources</key>
 	<array>
 		<dict>
@@ -55,11 +37,18 @@
 			<key>KeyboardLayout Name</key>
 			<string>Swiss German</string>
 		</dict>
+		<dict>
+			<key>Bundle ID</key>
+			<string>com.apple.PressAndHold</string>
+			<key>InputSourceKind</key>
+			<string>Non Keyboard Input Method</string>
+		</dict>
+		<dict>
+			<key>Bundle ID</key>
+			<string>com.apple.inputmethod.EmojiFunctionRowItem</string>
+			<key>InputSourceKind</key>
+			<string>Non Keyboard Input Method</string>
+		</dict>
 	</array>
-	<key>AppleTimeResID</key>
-	<dict>
-		<key>smRoman</key>
-		<integer>19</integer>
-	</dict>
 </dict>
 </plist>
