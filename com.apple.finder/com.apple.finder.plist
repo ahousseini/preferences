@@ -38,8 +38,6 @@
 	<string>clmv</string>
 	<key>SearchRecentsSavedViewStyle</key>
 	<string>clmv</string>
-	<key>QuitMenuItem</key>
-	<true/>
 	<key>_FXShowPosixPathInTitle</key>
 	<true/>
 </dict>
