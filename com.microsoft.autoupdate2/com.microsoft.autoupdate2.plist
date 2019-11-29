@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1">
+  <dict>
+    <key>StartDaemonOnAppLaunch</key>
+    <true/>
+    <key>UpdateCheckFrequency</key>
+    <integer>720</integer>
+    <key>ChannelName</key>
+    <string>Production</string>
+    <key>Applications</key>
+    <dict>
+      <key>/Applications/Microsoft Excel.app</key>
+      <dict>
+        <key>LCID</key>
+        <string>1033</string>
+        <key>Application ID</key>
+        <string>XCEL2019</string>
+      </dict>
+      <key>/Applications/Microsoft PowerPoint.app</key>
+      <dict>
+        <key>LCID</key>
+        <string>1033</string>
+        <key>Application ID</key>
+        <string>PPT32019</string>
+      </dict>
+      <key>/Applications/Skype for Business.app</key>
+      <dict>
+        <key>LCID</key>
+        <string>1033</string>
+        <key>Application ID</key>
+        <string>MSFB16</string>
+      </dict>
+      <key>/Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app</key>
+      <dict>
+        <key>LCID</key>
+        <string>1033</string>
+        <key>Application ID</key>
+        <string>MSau04</string>
+      </dict>
+      <key>/Applications/Microsoft Word.app</key>
+      <dict>
+        <key>LCID</key>
+        <string>1033</string>
+        <key>Application ID</key>
+        <string>MSWD2019</string>
+      </dict>
+      <key>/Applications/Company Portal.app</key>
+      <dict>
+        <key>LCID</key>
+        <string>1033</string>
+        <key>Application ID</key>
+        <string>IMCP01</string>
+      </dict>
+      <key>/Applications/Microsoft OneNote.app</key>
+      <dict>
+        <key>LCID</key>
+        <string>1033</string>
+        <key>Application ID</key>
+        <string>ONMC2019</string>
+      </dict>
+      <key>/Applications/Microsoft Edge.app</key>
+      <dict>
+        <key>LCID</key>
+        <string>1033</string>
+        <key>Application ID</key>
+        <string>EDGE01</string>
+      </dict>
+      <key>/Applications/Microsoft Outlook.app</key>
+      <dict>
+        <key>LCID</key>
+        <string>1033</string>
+        <key>Application ID</key>
+        <string>OPIM2019</string>
+      </dict>
+      <key>/Applications/Microsoft Remote Desktop.app</key>
+      <dict>
+        <key>LCID</key>
+        <string>1033</string>
+        <key>Application ID</key>
+        <string>MSRD10</string>
+      </dict>
+      <key>/Applications/OneDrive.app</key>
+      <dict>
+        <key>LCID</key>
+        <string>1033</string>
+        <key>Application ID</key>
+        <string>ONDR18</string>
+      </dict>
+      <key>/Applications/Microsoft Teams.app</key>
+      <dict>
+        <key>LCID</key>
+        <string>1033</string>
+        <key>Application ID</key>
+        <string>TEAM01</string>
+      </dict>
+      <key>/Applications/Microsoft Defender ATP.app</key>
+      <dict>
+        <key>LCID</key>
+        <string>1033</string>
+        <key>Application ID</key>
+        <string>WDAV00</string>
+      </dict>
+    </dict>
+    <key>AcknowledgedDataCollectionPolicy</key>
+    <string>RequiredDataOnly</string>
+    <key>DisableInsiderCheckbox</key>
+    <true/>
+    <key>HowToCheck</key>
+    <string>AutomaticDownload</string>
+    <key>EnableCheckForUpdatesButton</key>
+    <true/>
+    <key>UpdateDeadline.DaysBeforeForcedQuit</key>
+    <integer>3</integer>
+    <key>ExtendedLogging</key>
+    <true/>
+  </dict>
+</plist>
