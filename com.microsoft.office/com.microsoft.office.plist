@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>ConnectedOfficeExperiencesPreference</key>
-	<true/>
-	<key>DefaultsToLocalOpenSave</key>
-	<true/>
-	<key>DiagnosticDataTypePreference</key>
-	<string>BasicDiagnosticData</string>
-	<key>HasUserSeenEnterpriseFREDialog</key>
-	<true/>
-	<key>OfficeAutoSignIn</key>
-	<true/>
-	<key>OfficeExperiencesAnalyzingContentPreference</key>
-	<true/>
-	<key>OfficeExperiencesDownloadingContentPreference</key>
-	<true/>
-	<key>OptionalConnectedExperiencesPreference</key>
-	<true/>
-	<key>SendAllTelemetryEnabled</key>
-	<false/>
-	<key>ShowDocStageOnLaunch</key>
-	<false/>
-	<key>ShowWhatsNewOnLaunch</key>
-	<true/>
-	<key>TermsAccepted1809</key>
-	<true/>
-	<key>kCUIThemePreferencesThemeKeyPath</key>
-	<integer>0</integer>
-</dict>
+  <dict>
+    <key>OfficeAutoSignIn</key>
+    <true/>
+    <key>DiagnosticDataTypePreference</key>
+    <string>FullDiagnosticData</string>
+    <key>ShowWhatsNewOnLaunch</key>
+    <true/>
+    <key>ShowDocStageOnLaunch</key>
+    <true/>
+    <key>DefaultsToLocalOpenSave</key>
+    <true/>
+    <key>OptionalConnectedExperiencesPreference</key>
+    <true/>
+    <key>OfficeExperiencesAnalyzingContentPreference</key>
+    <true/>
+    <key>OfficeExperiencesDownloadingContentPreference</key>
+    <true/>
+    <key>DisableCloudFonts</key>
+    <true/>
+    <key>NPSSurveyDisabled</key>
+    <true/>
+    <key>VisualBasicMacroExecutionState</key>
+    <string>DisabledWithWarnings</string>
+    <key>VBAObjectModelIsTrusted</key>
+    <true/>
+    <key>AllowVisualBasicToBindToSystem</key>
+    <true/>
+  </dict>
 </plist>
