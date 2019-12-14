@@ -8,6 +8,8 @@
 	<false/>
 	<key>ShowExternalHardDrivesOnDesktop</key>
 	<true/>
+	<key>ShowHardDrivesOnDesktop</key>
+	<true/>
 	<key>ShowPathbar</key>
 	<true/>
 	<key>ShowPreviewPane</key>
