@@ -2,18 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>NewWindowTarget</key>
-	<string>PfHm</string>
-	<key>ShowRecentTags</key>
-	<false/>
 	<key>ShowExternalHardDrivesOnDesktop</key>
 	<true/>
 	<key>ShowHardDrivesOnDesktop</key>
 	<true/>
 	<key>ShowPathbar</key>
 	<true/>
-	<key>ShowPreviewPane</key>
-	<false/>
 	<key>ShowRemovableMediaOnDesktop</key>
 	<true/>
 	<key>ShowSidebar</key>
@@ -30,12 +24,6 @@
 	<true/>
 	<key>AlwaysOpenWindowsInColumnView</key>
 	<true/>
-	<key>FXPreferredSearchViewStyle</key>
-	<string>clmv</string>
-	<key>FXPreferredViewStyle</key>
-	<string>clmv</string>
-	<key>SearchRecentsSavedViewStyle</key>
-	<string>clmv</string>
 	<key>_FXShowPosixPathInTitle</key>
 	<true/>
 </dict>
