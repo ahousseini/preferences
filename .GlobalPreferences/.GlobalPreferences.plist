@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>NSQuitAlwaysKeepsWindows</key>
-	<true/>
+	<false/>
 	<key>AppleShowAllExtensions</key>
 	<true/>
 	<key>NSAutomaticCapitalizationEnabled</key>
