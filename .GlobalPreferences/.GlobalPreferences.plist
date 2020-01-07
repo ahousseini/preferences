@@ -24,5 +24,11 @@
 	<string>Always</string>
 	<key>CSUIDisable32BitWarning</key>
 	<true/>
+	<key>ShowExternalHardDrivesOnDesktop</key>
+	<true/>
+	<key>ShowHardDrivesOnDesktop</key>
+	<true/>
+	<key>ShowPreviewPane</key>
+	<true/>
 </dict>
 </plist>
