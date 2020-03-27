@@ -6,6 +6,8 @@
 	<true/>
 	<key>ShowHardDrivesOnDesktop</key>
 	<true/>
+	<key>ShowMountedServersOnDesktop</key>
+	<true/>
 	<key>ShowPathbar</key>
 	<true/>
 	<key>ShowRemovableMediaOnDesktop</key>
@@ -21,8 +23,6 @@
 	<key>SidebarPlacesSectionDisclosedState</key>
 	<true/>
 	<key>SidebarSharedSectionDisclosedState</key>
-	<true/>
-	<key>AlwaysOpenWindowsInColumnView</key>
 	<true/>
 	<key>_FXShowPosixPathInTitle</key>
 	<true/>
