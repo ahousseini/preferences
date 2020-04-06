@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>menuExtras</key>
+	<array>
+		<string>/System/Library/CoreServices/Menu Extras/VPN.menu</string>
+		<string>/System/Library/CoreServices/Menu Extras/Clock.menu</string>
+		<string>/System/Library/CoreServices/Menu Extras/AirPort.menu</string>
+		<string>/System/Library/CoreServices/Menu Extras/User.menu</string>
+		<string>/System/Library/CoreServices/Menu Extras/Volume.menu</string>
+		<string>/System/Library/CoreServices/Menu Extras/TextInput.menu</string>
+		<string>/Applications/Utilities/Keychain Access.app/Contents/Resources/Keychain.menu</string>
+	</array>
+</dict>
+</plist>
